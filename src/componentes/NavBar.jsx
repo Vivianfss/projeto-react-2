@@ -8,7 +8,7 @@ function NavBar(props) {
     <Container>
       <Navbar bg="dark" variant="dark" fixed="top">
         <Container>
-          <Navbar.Brand href="/">E-Commerce</Navbar.Brand>
+          <Navbar.Brand href="/">Miha loja</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/produtos">Produtos</Nav.Link>
